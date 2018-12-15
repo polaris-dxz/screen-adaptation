@@ -150,6 +150,12 @@ PPI（Pixel Per Inch by diagonal）：表示沿着对角线，每英寸所拥有
 
 PPI数值越高，代表显示屏能够以越高的密度显示图像，即通常所说的分辨率越高、颗粒感越弱。 
 
+### 11、rem 
+
+rem：html根字号大小
+
+$ 设计稿的宽/设计稿px = 屏幕宽/屏幕px <span style="caret-color: rgb(129, 177, 219); color: rgb(129, 177, 219); display: inline"></span><span style="caret-color: rgb(129, 177, 219); color: rgb(129, 177, 219); display: inline"></span><span style="caret-color: rgb(129, 177, 219); color: rgb(129, 177, 219); display: inline"></span><span style="caret-color: rgb(129, 177, 219); color: rgb(129, 177, 219); display: inline"></span>$ 
+
 ### 12、 完美视口
 
 ```html
@@ -273,6 +279,10 @@ $(document).ready(function(){
 - 网易彩票的方案上手快，开发效率高，兼容性好，但是不够灵活和精细；
 - 天猫的设计思路比较简单，flexbox非常灵活，但是flexbox的兼容性方面需要好好处理，不够精细；
 - 淘宝的方案几乎解决了移动端遇到的所有问题，堪称完美的解决方案，但是开发效率低、成本比较高。
+
+### 5、移动web 1px的处理方案
+
+[Retina屏的移动设备如何实现真正1px的线？](http://jinlong.github.io/2015/05/24/css-retina-hairlines/)
 
 ## 三、Android && iOS原生适配
 
