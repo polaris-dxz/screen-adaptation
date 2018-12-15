@@ -14,7 +14,9 @@ pt: point ，点，是一个标准的长度单位，1pt＝1/72英寸.
 
 px: pixel，像素，屏幕上显示的最小单位。
 
-![img](https://upload-images.jianshu.io/upload_images/1859446-f83c6caa8294e5c0.jpeg)
+![img](https://github.com/Yggdrasill-7C9/screen-adaptation/raw/master/src/2018%E6%AC%BEiPhone%E5%B1%8F%E5%B9%95%E9%80%82%E9%85%8D.png)
+
+
 
 
 
